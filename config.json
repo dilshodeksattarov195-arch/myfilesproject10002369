@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenpalidate",
+        "uuid": 6114389,
+        "checksum": "iqny0t"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
